@@ -1,11 +1,8 @@
 # goit-nodejs-homework-01
 
 //---------------------------
-node index.js --action list
-http://joxi.ru/zANw8RRh8VVLpr
-
-
-
+node index.js --action list\n
+http://joxi.ru/zANw8RRh8VVLpr\n
 //---------------------------
 node index.js --action get --id 5
 http://joxi.ru/VrwkOPPIj5505r
